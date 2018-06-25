@@ -15,6 +15,7 @@ menu:
     identifier: _posts
     url: "/posts/"
     weight: 3
+published: false
 ---
 asdfasdfasdasdfasd
 
