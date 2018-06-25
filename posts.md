@@ -1,7 +1,7 @@
 ---
 title: Posts
 layout: posts
-sub_heading: ''
+sub_heading: Prueba
 description: Articles by Belkirk College
 publish_date: 2017-11-01 03:00:00 +0000
 menu:
@@ -16,16 +16,4 @@ menu:
     url: "/posts/"
     weight: 3
 ---
-asdfasdfasdasdfasd
-
-asgasdfga
-
-gasdfgas
-
-gagsdga
-
-asgasdfhada
-
-ahadfhadf
-
-aghadrghae
+Esto es una prueba de como hacer commit desde Forestry a nuestro site de HUGO!
