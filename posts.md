@@ -15,6 +15,5 @@ menu:
     identifier: _posts
     url: "/posts/"
     weight: 3
-published: false
 ---
 Esto es una prueba de como hacer commit desde Forestry a nuestro site de HUGO!
