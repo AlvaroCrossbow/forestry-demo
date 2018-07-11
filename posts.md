@@ -8,10 +8,10 @@ menu:
   footer:
     identifier: _posts
     url: "/posts/"
-    weight: 3
+    weight: 2
   navigation:
     identifier: _posts
     url: "/posts/"
-    weight: 3
+    weight: 5
 ---
 Esto es una prueba de como hacer commit desde Forestry a nuestro site de HUGO!
