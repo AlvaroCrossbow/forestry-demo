@@ -39,3 +39,12 @@ fields:
   type: text
   hidden: true
   default: post
+pages:
+- _posts/2018-06-27-ahbflghe3.html
+- _posts/2018-07-10-test2.html
+- _posts/2017-02-12-modern.md
+- _posts/2018-06-25-test.html
+- _posts/2018-01-19-example-draft.md
+- _posts/2017-08-22-research.md
+- _posts/2017-08-01-welcome.md
+- _posts/2017-09-25-introduction.md
